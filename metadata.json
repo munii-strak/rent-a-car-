@@ -1,0 +1,6 @@
+{
+  "name": "Vorsteiner & SkyKey Luxury Mobility",
+  "description": "High-performance German automotive engineering and premium fleet mobility across Pakistan with real-time telemetry dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
